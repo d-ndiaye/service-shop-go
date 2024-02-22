@@ -1,0 +1,10 @@
+port: 8080
+sslport: 8443
+
+mongodb:
+  host: 127.0.0.1
+  port: 27017
+  dbname: service
+
+health:
+  period: 10
